@@ -6,7 +6,7 @@
 - (b) Binary Input Output System
 - (c) Basic Internet Operating System
 - (d) Binary Integrated Operating System
-- 
+  
 **Answer: (a) Basic Input Output System**
 
 ---
@@ -16,6 +16,7 @@
 - (b) ROM
 - (c) Cache
 - (d) Virtual Memory
+  
 **Answer: (b) ROM**
 
 ---
@@ -25,6 +26,7 @@
 - (b) ILOVEYOU Virus
 - (c) Melissa Virus
 - (d) Trojan Virus
+  
 **Answer: (a) Creeper Virus**
 
 ---
@@ -34,6 +36,7 @@
 - (b) Solid State Drive
 - (c) Super Speed Disk
 - (d) Storage System Drive
+  
 **Answer: (b) Solid State Drive**
 
 ---
@@ -43,6 +46,7 @@
 - (b) FTP
 - (c) SMTP
 - (d) DNS
+  
 **Answer: (c) SMTP**
 
 ---
@@ -52,6 +56,7 @@
 - (b) Mainframe
 - (c) Minicomputer
 - (d) File Transfer Protocol
+  
 **Answer: (d) File Transfer Protocol**
 
 ---
@@ -61,6 +66,7 @@
 - (b) 4
 - (c) 6
 - (d) 8
+  
 **Answer: (b) 4**
 
 ---
@@ -70,6 +76,7 @@
 - (b) Monitor
 - (c) Mouse
 - (d) Printer
+  
 **Answer: (a) Router**
 
 ---
@@ -79,6 +86,7 @@
 - (b) Store data
 - (c) Manage network traffic
 - (d) Run the operating system
+  
 **Answer: (a) Perform logical operations**
 
 ---
@@ -88,6 +96,7 @@
 - (b) Python
 - (c) HTML
 - (d) SQL
+  
 **Answer: (b) Python**
 
 ---
@@ -97,6 +106,7 @@
 - (b) General User Interface
 - (c) General Unit Interface
 - (d) Global User Interface
+  
 **Answer: (a) Graphical User Interface**
 
 ---
@@ -106,6 +116,7 @@
 - (b) To convert source code into machine code
 - (c) To store the program
 - (d) To encrypt the program
+  
 **Answer: (b) To convert source code into machine code**
 
 ---
@@ -115,6 +126,7 @@
 - (b) Switch
 - (c) Router
 - (d) Repeater
+  
 **Answer: (c) Router**
 
 ---
@@ -124,6 +136,7 @@
 - (b) del
 - (c) rmdir
 - (d) remove
+  
 **Answer: (c) rmdir**
 
 ---
@@ -133,6 +146,7 @@
 - (b) Hard Drive
 - (c) SSD
 - (d) RAM
+  
 **Answer: (d) RAM**
 
 ---
@@ -142,6 +156,7 @@
 - (b) Universal Resource Locator
 - (c) Uniform Retrieval Link
 - (d) Universal Retrieval Link
+  
 **Answer: (a) Uniform Resource Locator**
 
 ---
@@ -151,6 +166,7 @@
 - (b) Domain Name System
 - (c) Direct Name System
 - (d) Dynamic Name Service
+  
 **Answer: (b) Domain Name System**
 
 ---
@@ -160,6 +176,7 @@
 - (b) Standard Query Language
 - (c) Simplified Query Language
 - (d) Sequential Query Language
+  
 **Answer: (a) Structured Query Language**
 
 ---
@@ -169,6 +186,7 @@
 - (b) Worm
 - (c) Trojan
 - (d) Spyware
+  
 **Answer: (b) Worm**
 
 ---
@@ -178,6 +196,7 @@
 - (b) Flashing
 - (c) Formatting
 - (d) Installing
+  
 **Answer: (a) Booting**
 
 ---
