@@ -6,6 +6,7 @@
 - (b) Binary Input Output System
 - (c) Basic Internet Operating System
 - (d) Binary Integrated Operating System
+- 
 **Answer: (a) Basic Input Output System**
 
 ---
